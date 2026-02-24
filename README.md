@@ -20,8 +20,10 @@ The project preprocesses news text, extracts features using **TF-IDF**, and trai
 
 
 ## 📂 Files
-Fake-News-Detection/
-├── Fake News Detection using machine learning.ipynb
+Fake-News-Detection
+
+├── Fake News Detection using machine learning.ipynb 
+
 ├── README.md
 
 
